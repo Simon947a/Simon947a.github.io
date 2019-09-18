@@ -8,6 +8,7 @@
 #portfolio .portfolio-item .portfolio-link .img-responsive {
     object-fit: cover;
     height: 260px;
+    background: white;
     
 }
 #portfolio .portfolio-item .portfolio-caption {
@@ -24,7 +25,10 @@
     object-fit: cover;
     max-height: 225px;
     width: 225px;
+    border: 7px solid #f1f1f1;
 }
+
+
 
 /*social-media*/
 /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
